@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Quais o menor e o maior país do mundo?",
+        "choice1": "Malta e Estados Unidos",
+        "choice2": "Vaticano e Rússia",
+        "choice3": "Mônaco e Canadá",
+        "choice4": "São Marino e Índia",
+        "answer": 2
+    },
+    {
+        "question": "De quem é a famosa frase “Penso, logo existo”?",
+        "choice1": "Platão",
+        "choice2": "Sócrates",
+        "choice3": "Descartes",
+        "choice4": "Aristóteles",
+        "answer": 3
+    },
+    {
+        "question": "De onde é a invenção do chuveiro elétrico?",
+        "choice1": "Brasil",
+        "choice2": "França",
+        "choice3": "Inglaterra",
+        "choice4": "Austrália",
+        "answer": 1
+    }
+] 
